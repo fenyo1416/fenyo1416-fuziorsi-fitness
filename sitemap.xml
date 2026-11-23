@@ -1,71 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:xhtml="http://www.w3.org/1999/xhtml">
-
-  <!-- Főoldal – Magyar -->
   <url>
-    <loc>https://fuziorsi-fitness.netlify.app/</loc>
-    <xhtml:link rel="alternate" hreflang="hu" href="https://fuziorsi-fitness.netlify.app/"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://fuziorsi-fitness.netlify.app/?lang=de"/>
-    <lastmod>2025-06-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>1.0</priority>
+    <loc>https://fuziorsifitness.hu/</loc>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://fuziorsifitness.hu/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://fuziorsifitness.hu/?lang=de"/>
+    <lastmod>2026-11-23</lastmod>
   </url>
-
-  <!-- Programok szekció -->
-  <url>
-    <loc>https://fuziorsi-fitness.netlify.app/#programs</loc>
-    <lastmod>2025-06-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-
-  <!-- Coaching szekció -->
-  <url>
-    <loc>https://fuziorsi-fitness.netlify.app/#coaching</loc>
-    <lastmod>2025-06-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <!-- Táplálkozás szekció -->
-  <url>
-    <loc>https://fuziorsi-fitness.netlify.app/#nutrition</loc>
-    <lastmod>2025-06-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <!-- Ingyenes Starter Csomag -->
-  <url>
-    <loc>https://fuziorsi-fitness.netlify.app/#email-signup</loc>
-    <lastmod>2025-06-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <!-- Blog / Tudástár -->
-  <url>
-    <loc>https://fuziorsi-fitness.netlify.app/#blog</loc>
-    <lastmod>2025-06-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <!-- Rólam szekció -->
-  <url>
-    <loc>https://fuziorsi-fitness.netlify.app/#about</loc>
-    <lastmod>2025-06-01</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.6</priority>
-  </url>
-
-  <!-- Kapcsolat -->
-  <url>
-    <loc>https://fuziorsi-fitness.netlify.app/#contact</loc>
-    <lastmod>2025-06-01</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.6</priority>
-  </url>
-
 </urlset>
