@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://fuziorsi-fitness.netlify.app/sitemap.xml
